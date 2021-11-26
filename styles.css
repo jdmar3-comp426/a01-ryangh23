@@ -23,3 +23,6 @@ a:hover {
 .bigfont {
     font-size: xx-large;
 }
+#links {
+    text-align: center;
+}
