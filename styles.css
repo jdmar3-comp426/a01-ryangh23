@@ -1,0 +1,39 @@
+body {
+    background-color: #D3D3D3;
+}
+h1 {
+    color: lightyellow;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: large;
+}
+p {
+    color: yellow;
+    font-family: Arial;
+    font-size: small;
+    border-style: dashed;
+    border-color: palegoldenrod;
+    border-width: 2px;
+}
+h1 p {
+    color: blue;
+}
+a {
+    color: green;
+}
+a:hover {
+    color: purple;
+}
+.bigfont {
+    font-size: xx-large;
+}
+#links {
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+    text-align: center;
+}
+h3 {
+    color: blue;
+}
